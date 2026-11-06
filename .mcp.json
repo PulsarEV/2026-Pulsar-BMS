@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "eda-agent": {
+      "command": "python",
+      "args": ["-m", "eda_agent"],
+      "env": {
+        "EDA_AGENT_TOOLSET": "minimal"
+      }
+    }
+  }
+}

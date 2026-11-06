@@ -8,5 +8,6 @@
 | Validation | [Verification plan](testing/verification-plan.md) | Planned tests vs executed evidence |
 | Design decisions | [Decision records](decisions/README.md) | Rationale and alternatives |
 | Onboarding | [Getting started](development/onboarding.md) | New engineering team member guide |
+| EDA tooling | [EDA Agent setup](eda-agent-setup.md) | Per-developer setup for the optional local EDA MCP server |
 
 **Rule:** A document is not proof of implementation. Values marked TBD must be verified against the latest approved engineering source.
