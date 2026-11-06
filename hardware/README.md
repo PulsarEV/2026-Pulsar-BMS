@@ -1,5 +1,3 @@
-# Hardware — Motor Controller
+# Hardware — Motor Sürücü
 
-Open `MotorSurucu.PrjPcb` in Altium Designer after importing the five native template files.
-
-The schematic and libraries start empty. The PCB has provisional rules from the reference design; check **Design → Rules** and **Layer Stack Manager** before designing.
+`MotorSurucu.PrjPcb` dosyasını Altium Designer ile aç. Şematik, PCB, SchLib ve PcbLib boş başlangıç dosyalarıdır. PCB tasarım kurallarını doğrula.
