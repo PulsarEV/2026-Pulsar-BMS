@@ -1,0 +1,21 @@
+name: Hardware design change
+description: Request a schematic, PCB, power or component change
+title: "[HW] "
+body:
+  - type: textarea
+    id: reason
+    attributes:
+      label: Change objective
+      description: Explain the problem and proposed change.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Affected hardware and interfaces
+      description: List revisions, schematic sheets, PCBs, BOM, signals and dependencies.
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification plan and evidence
+      description: Distinguish planned tests from executed tests.

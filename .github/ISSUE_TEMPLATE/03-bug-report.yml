@@ -1,0 +1,24 @@
+name: Bug report
+description: Describe a reproducible hardware, firmware or integration defect
+title: "[BUG] "
+body:
+  - type: textarea
+    id: actual
+    attributes:
+      label: Observed behavior
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction conditions and hardware revision
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs, measurements and safe test evidence

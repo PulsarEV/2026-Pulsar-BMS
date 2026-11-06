@@ -1,0 +1,14 @@
+# OS and editor caches
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*.log
+__pycache__/
+*.py[cod]
+# Derived compiler outputs; review for each toolchain
+*.o
+*.obj
+*.elf
+*.map
+*.lst
+# Preserve native Altium projects, libraries, Gerbers and release artifacts.

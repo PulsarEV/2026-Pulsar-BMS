@@ -1,0 +1,14 @@
+# Normalize text while preserving proprietary engineering artifacts
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.SchDoc binary
+*.PcbDoc binary
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary
+*.PrjPcb text

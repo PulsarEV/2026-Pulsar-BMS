@@ -1,0 +1,18 @@
+name: Firmware task
+description: Report an embedded software change or improvement
+title: "[FW] "
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective and acceptance criteria
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: MCU, board revision and toolchain
+  - type: textarea
+    id: validation
+    attributes:
+      label: Test evidence or proposed checks
