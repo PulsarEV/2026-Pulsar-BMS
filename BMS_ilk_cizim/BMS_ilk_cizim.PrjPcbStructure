@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=00_BMS_TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=00_BMS_TOP.SchDoc|Designator=U_10_CELL_MONITOR|SchDesignator=U_10_CELL_MONITOR|FileName=10_CELL_MONITOR.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=10_CELL_MONITOR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_BMS_TOP.SchDoc|Designator=U_20_BQ76952|SchDesignator=U_20_BQ76952|FileName=20_BQ76952.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=20_BQ76952.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_BMS_TOP.SchDoc|Designator=U_30_AFE_COMM|SchDesignator=U_30_AFE_COMM|FileName=30_AFE_COMM.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=30_AFE_COMM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
